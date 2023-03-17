@@ -1,0 +1,27 @@
+
+
+@mixin responsive($min, $max){
+  @media screen and (min-width: $min) and (max-width: $max){
+    @content;
+  }
+}
+
+@mixin responsive_min_width( $min ){
+  @media screen and (min-width: $min) {
+    @content;
+  }
+}
+
+@mixin responsive_max_width( $max ){
+  @media screen and (max-width: $max) {
+    @content;
+  }
+}
+
+@mixin font_file( $family, $weight, $style, $src, $variant ){
+  font-family: $family;
+  font-weight: $weight;
+  font-style: $style;
+  src: url( $src );
+  font-variant: $variant;
+}

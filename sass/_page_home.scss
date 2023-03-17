@@ -1,0 +1,122 @@
+/*
+=============================================================================
+  SECCION HOME
+=============================================================================
+*/
+
+.page_home {
+    main {
+        @media screen and (min-width: 801px) {
+            min-height: 700px;
+        }
+        @media screen and (max-width: 800px) {
+            height: 1300px;
+        }
+    }
+    .welcome_descripcion {
+        display: flex;
+        width: 75%;
+        @media screen and (max-width: 800px) {
+            flex-direction: column;
+            padding-top: 3rem;
+            width: 100%;
+        }
+        & .span1 {
+            display: flex;
+            flex-direction: column;
+            align-items: end;
+            padding-top: 1.5rem;
+            padding-right: 1rem;
+            @media screen and (min-width: 801px) {
+                flex-basis: 40%;
+            }
+            @media screen and (max-width: 800px) {
+                flex-direction: row;
+                align-items: start;
+            }
+            & h1 {
+                color: var(--color3);
+                font-size: 50px;
+                text-align: right;
+                @media screen and (max-width: 800px) {
+                    padding-right: 1rem;
+                    width: 50%;
+                    font-size: 30px;
+                }
+            }
+            & img {
+                @media screen and (min-width: 801px) {
+                    margin-top: 2rem;
+                    width: 322px;
+                }
+            }
+            & div {
+                @media screen and (max-width: 800px) {
+                    padding-left: 1rem;
+                    position: relative;
+                    width: 50%;
+                }
+                &:after {
+                    @media screen and (max-width: 800px) {
+                        content: "";
+                        position: absolute;
+                        height: 100%;
+                        left: 0;
+                        top: 0;
+                        width: 2px;
+                        background-color: white;
+                    }
+                }
+            }
+        } // end span1
+        & .span2 {
+            position: relative;
+            padding-top: 1.5rem;
+            padding-left: 1.5rem;
+            padding-right: 5%;
+            @media screen and (min-width: 801px) {
+                flex-basis: 60%;
+            }
+            &:before {
+                @media screen and (min-width: 801px) {
+                    content: "";
+                    width: 1px;
+                    height: 110%;
+                    background-color: white;
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                }
+            }
+            & p {
+                text-align: justify;
+            }
+            & .fcolor1 {
+                color: var(--color3);
+                margin-bottom: 20px;
+            }
+            & .ffuente span {
+                font-family: "titiliun-italic";
+            }
+            & div h2,
+            & div h3 {
+                color: var(--color3);
+            }
+            & .home_txt_fecha {
+                font-family: "barlow";
+                h2 {
+                    font-size: 50px;
+                    line-height: 50px;
+                }
+                & span {
+                    color: white;
+                    font-size: 45px;
+                    padding-left: 1.5rem;
+                }
+            }
+            & p:not(class) {
+                color: white;
+            }
+        }
+    }
+}

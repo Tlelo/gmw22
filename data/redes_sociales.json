@@ -1,0 +1,62 @@
+[{
+        "title": "facebook",
+        "descrp": "redsocial facebook global money week",
+        "link": "https://www.facebook.com/museomide/ ",
+        "target": "_blank",
+        "image": "redes_sociales/facebook.png",
+        "alt": "mide-digital-facebook",
+        "class": "facebook",
+        "rel": "",
+        "publish": true,
+        "order": 5
+    },
+    {
+        "title": "twitter",
+        "descrp": "redsocial twitter global money week",
+        "link": "https://twitter.com/MuseoMIDE ",
+        "target": "_blank",
+        "image": "redes_sociales/twitter.png",
+        "alt": "",
+        "class": "twitter",
+        "rel": "",
+        "publish": true,
+        "order": 4
+    },
+    {
+        "title": "instagram",
+        "descrp": "redsocial instagram global money week",
+        "link": "https://www.instagram.com/museomide ",
+        "target": "_blank",
+        "image": "redes_sociales/instagram.png",
+        "alt": "",
+        "class": "instagram",
+        "rel": "",
+        "publish": true,
+        "order": 3
+    },
+    {
+        "title": "tiktok",
+        "descrp": "redsocial titok global money week",
+        "link": "https://www.tiktok.com/@museomide",
+        "target": "_blank",
+        "image": "redes_sociales/tiktok.png",
+        "alt": "titok-de-global-money-week",
+        "class": "tiktok",
+        "rel": "",
+        "publish": true,
+        "order": 2
+    },
+    {
+        "title": "mail",
+        "descrp": "mail de global money week",
+        "link": "#",
+        "target": "_blank",
+        "image": "redes_sociales/mail.png",
+        "alt": "mail-de-mide-digital",
+        "class": "mail",
+        "rel": "",
+        "publish": false,
+        "order": 1
+    }
+
+]

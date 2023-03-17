@@ -1,0 +1,114 @@
+/*
+=============================================================================
+  SECCION DE RECURSOS
+=============================================================================
+*/
+
+.page_recursos {
+    & h1 {
+        color: var(--color3);
+    }
+    & .header_content {
+        @media screen and (min-width: 801px) {
+            display: flex;
+            justify-content: center;
+            margin: 0 auto;
+            width: 60%;
+        }
+         :is( .span1, .span2) {
+            @media screen and ( min-width: 801px) {
+                padding: 1.5rem 1rem;
+            }
+        }
+        & .span2 {
+            @media screen and ( min-width: 801px) {
+                border-left: 1px solid white;
+                text-align: justify;
+            }
+            & p:first-child {
+                color: white;
+            }
+            & p:last-child {
+                color: var(--color3);
+            }
+        }
+    }
+    .content_list {
+        & h3 {
+            color: var(--color3);
+            font-family: "titiliun";
+            @media screen and (min-width: 801px) {
+                font-size: 28px;
+                line-height: 27px;
+                margin-bottom: 5px;
+                font-family: "titiliun-semiBold";
+            }
+            @media screen and (min-width: 480px) and (max-width: 800px) {
+                font-size: 28px;
+            }
+            @media screen and (max-width: 800px) {
+                margin-bottom: 3px;
+            }
+        }
+        & h4 {
+            font-family: "titiliun-semiBold";
+            @media screen and (min-width: 801px) {
+                font-size: 16px;
+                margin-top: 0;
+                margin-bottom: 3px;
+            }
+            @media screen and (max-width: 800px) {
+                margin-top: 5px;
+                margin-bottom: 3px;
+            }
+        }
+        & .txt_des_recursos {
+            font-family: "titiliun";
+        }
+         :is( h4, p) {
+            color: white;
+        }
+         :is( .bloque_1, .bloque_2) {
+            @media screen and (min-width: 801px) {
+                padding: 0 2rem;
+            }
+        }
+        @media screen and (min-width: 801px) {
+            display: flex;
+            justify-content: center;
+            width: 65%;
+        }
+        @media screen and ( max-width: 800px) {
+            padding-bottom: 350px;
+        }
+        & .item_list {
+            padding-bottom: 1.3rem;
+            &:after {
+                content: "";
+                background-color: white;
+                height: 1px;
+                display: block;
+                transform: translateY(1rem);
+                width: 55%;
+            }
+            & a {
+                color: white;
+            }
+        }
+    }
+    & .bg_desk {
+        top: inherit;
+        right: 0;
+        bottom: 0;
+        height: inherit;
+        width: 50%;
+    }
+    & .bg_movil {
+        top: inherit;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: inherit;
+        width: 100%;
+    }
+}

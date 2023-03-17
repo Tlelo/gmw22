@@ -1,0 +1,39 @@
+/*
+=============================================================================
+  SECCION DE CONTACTO
+=============================================================================
+*/
+
+.page_contacto{
+  main{
+    @media screen and (max-width: 800px){
+      height: 1200px;
+    }
+
+    h1{
+      color: var(--color3);
+    }
+
+    p{
+      color: white;
+
+      span{
+        color: var(--color3);
+      }
+
+    }
+    h1 + p {
+      margin-bottom: 2.5rem;
+    }
+    .content{
+      @media screen and (min-width: 801px){
+        padding-left: 4rem;
+        width: 45%;
+      }
+      @media screen and (max-width: 800px){
+        width: 70%;
+      }
+    }
+
+  }
+}

@@ -1,0 +1,70 @@
+[
+	{
+		"id":1,
+		"title":"Global Money Week",
+		"site_name":"Global Money Week",
+		"meta_description":"Global Money Week te invita a descrubir diferentes formas para tomar decisiones financieras informadas, alcanzar tus metas y construir tu futuro..",
+		"meta_key_words":"Global, money, financiero, week, midedigital, ahorra, gana",
+		"meta_theme_color":{
+			"active":true,
+			"name":"theme-color",
+			"color":"#ffdd00"
+		},
+		"meta_ios":{
+			"active":true,
+			"rel":"apple-mobile-web-app-capable",
+			"adaptable":"yes"
+		},
+		"meta_bar":{
+			"active":false,
+			"rel":"apple-mobile-web-app-status-bar-style",
+			"color_bar":"black"
+		},
+		"meta_author":{
+			"active":false,
+			"author":"author",
+			"type":"text/plain",
+			"file":"humans.text"
+		},
+		"meta_robots":[
+			{
+				"active":false,
+				"option0":"Use Global",
+				"option1":"Index, Follow",
+				"option2":"No index, follow",
+				"option3":"Index, No follow",
+				"option4":"No index, No follow"
+			}
+		],
+		"favicons":[
+			{"active":false,"rel":"shortcut icon", "type":"image/x-icon", "href":"./favicons/favicon-32x32.ico", "size":"16x16"},
+			{"active":false,"rel":"shortcut icon", "type":"image/x-icon", "href":"./favicons/favicon-16x16.png", "size":"16x16"},
+			{"active":true,"rel":"shortcut icon", "type":"image/x-icon", "href":"./favicons/favicon_32x32.png", "size":"32x32"},
+			{"active":false,"rel":"shortcut icon", "type":"image/svg+xml", "href":"./favicons/favicon-32x32.png", "size":"32x32"},
+			{"active":false,"rel":"shortcut icon", "type":"image/x-icon", "href":"./favicons/apple-touch-icon.png", "size":"180x180"},
+			{"active":false,"rel":"shortcut icon", "type":"image/x-icon", "href":"./favicons/favicon-270x270.png", "size":"270x270"},
+			{"active":false,"rel":"shortcut icon", "type":"image/x-icon", "href":"./favicons/favicon-192x192.png", "size":"192x192"},
+			{"active":false,"rel":"shortcut icon", "type":"image/x-icon", "href":"./favicons/mstile-150x150.png", "size":"150x150"}
+		],
+		"link_css":"estilos.css",
+		"friendly_url":false,
+		"site_mode":false,
+		"site_off":{
+			"title":"Fuera de Linea",
+			"message":"Lo sentimos sitio en construccion :(",
+			"link_css":"ruta",
+			"src_js":"ruta",
+			"img":"ruta"
+		},
+		"cdn_css":[
+			{
+				"active":false,
+				"rel":"stylesheet",
+				"type":"text/css",
+				"name":"file.css",
+				"href":"https://www.google.com",
+				"media":""
+			}
+		]
+	}
+]

@@ -1,0 +1,35 @@
+.bloomberg{
+  
+  .content{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap:10px;
+
+    @media screen and (max-width: 600px){
+      justify-content: center;
+      margin-top: 1.5rem;
+    }
+
+    p{
+      @media screen and (min-width: 800px){
+        margin-bottom:6px;
+      }
+      @media screen and (max-width: 600px){
+        font-size: 11px;
+        margin-bottom:5px;
+      }
+    }
+
+    img{
+      @media screen and (min-width: 801px){
+        width: 130px;
+      }
+
+      @media screen and (max-width: 800px){
+        width: 90px;
+      }
+    }
+  }
+  
+}

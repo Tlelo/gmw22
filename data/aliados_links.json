@@ -1,0 +1,358 @@
+[{
+        "titulo": "ASOCIACIONES",
+        "class": "",
+        "order": 1,
+        "activo": true,
+        "img": "./img/aliados/asociaciones.png",
+        "alt": "asociaciones",
+        "list": [{
+                "enlace": "AMAFORE",
+                "order": 1,
+                "link": "https://amafore.org/"
+            },
+            {
+                "enlace": "AMIB",
+                "order": 2,
+                "link": "https://www.amib.com.mx/"
+            },
+            {
+                "enlace": "AMSOFIPO",
+                "order": 3,
+                "link": "https://www.amsofipo.mx/"
+            }
+        ]
+    },
+    {
+        "titulo": "EMPRESAS",
+        "class": "",
+        "order": 2,
+        "activo": true,
+        "img": "./img/aliados/empresas.png",
+        "alt": "empresas",
+        "list": [{
+                "enlace": "AHORRA QUE PUEDES",
+                "order": 1,
+                "link": "https://aqp.mx/"
+            },
+            {
+                "enlace": "ABC OF MARKETS",
+                "order": 2,
+                "link": "https://www.facebook.com/ABC-of-Markets-103885542635168"
+            },
+            {
+                "enlace": "AFORE SURA MÉXICO",
+                "order": 3,
+                "link": "https://www.amsofipo.mx/"
+            },
+            {
+                "enlace": "BANCO AZTECA - APRENDE Y CRECE",
+                "order": 4,
+                "link": "https://www.bancoazteca.com.mx/educacion-financiera.html"
+            },
+            {
+                "enlace": "BANCO SANTANDER",
+                "order": 5,
+                "link": "https://www.santander.com.mx/educacion-financiera/"
+            },
+            {
+                "enlace": "BANK OF AMERICA EN MÉXICO",
+                "order": 6,
+                "link": "https://www.bankofamerica.com.mx/PHXMexico/MexicoCMS/#/c1/responsabilidad_social"
+            },
+            {
+                "enlace": "BBVA MÉXICO",
+                "order": 7,
+                "link": "https://www.bbva.mx/educacion-financiera.html"
+            },
+            {
+                "enlace": "CA ASESORES FINANCIEROS",
+                "order": 8,
+                "link": "https://www.youtube.com/channel/UCQIwDT_O96qsUe9D75QLSHw"
+            },
+            {
+                "enlace": "CENTRO DE EDUCACIÓN ACTINVER",
+                "order": 9,
+                "link": "https://www.actinver.com/web/actinver/"
+            },
+            {
+                "enlace": "CITIBANAMEX",
+                "order": 10,
+                "link": "https://www.banamex.com/sitios/educacion-financiera/index.html"
+            },
+            {
+                "enlace": "CONSULTORES CALPULLI",
+                "order": 11,
+                "link": "https://www.calpulli.org.mx/"
+            },
+            {
+                "enlace": "FINANZAS EN TACONES",
+                "order": 12,
+                "link": "https://www.finanzasentacones.com.mx/"
+            },
+            {
+                "enlace": "FINLINK",
+                "order": 13,
+                "link": "https://finlink.com.mx/"
+            },
+            {
+                "enlace": "FINSUS",
+                "order": 14,
+                "link": "https://finsus.mx/nosotros/"
+            },
+            {
+                "enlace": "FLINK",
+                "order": 15,
+                "link": "https://miflink.com/"
+            },
+            {
+                "enlace": "LUFINDO",
+                "order": 16,
+                "link": "https://www.lufindo.com/"
+            },
+            {
+                "enlace": "METLIFE FOUNDATION",
+                "order": 17,
+                "link": "https://www.metlife.com.mx/acerca-de-metlife/sustentabilidad/fundacion/"
+            },
+            {
+                "enlace": "NOAHUI SOLUCIONES",
+                "order": 18,
+                "link": "https://www.mexcosoluciones.com/"
+            },
+            {
+                "enlace": "PROFUTURO",
+                "order": 19,
+                "link": " https://www.profuturo.mx/profuturoasesora/"
+            },
+            {
+                "enlace": "PROVIDENT",
+                "order": 20,
+                "link": "https://www.provident.com.mx/sustentabilidad/educacion-financiera"
+            },
+            {
+                "enlace": "ROCA. EDUACIÓN Y CULTURA FINANCIERA ",
+                "order": 21,
+                "link": "https://www.facebook.com/ROCAedufinMx/"
+            },
+            {
+                "enlace": "RP EXPOK, INNOVACIÓN EN RESPONSABILIDAD SOCIAL",
+                "order": 22,
+                "link": "https://www.expoknews.com/"
+            },
+            {
+                "enlace": "SESAME WORKSHOP",
+                "order": 23,
+                "link": "https://plazasesamo.com/suena/index.html"
+            },
+            {
+                "enlace": "VANGUARD",
+                "order": 24,
+                "link": "https://www.vanguardmexico.com/es/inicio"
+            }
+        ]
+    },
+    {
+        "titulo": "GOBIERNO",
+        "class": "",
+        "order": 3,
+        "activo": true,
+        "img": "./img/aliados/gobierno.png",
+        "alt": "gobierno",
+        "list": [{
+                "enlace": "CONDUSEF",
+                "order": 1,
+                "link": "https://www.condusef.gob.mx/"
+            },
+            {
+                "enlace": "CNBV",
+                "order": 2,
+                "link": "https://www.gob.mx/cnbv"
+            },
+            {
+                "enlace": "CNSF",
+                "order": 3,
+                "link": "https://www.gob.mx/cnsf"
+            },
+            {
+                "enlace": "CONSAR",
+                "order": 4,
+                "link": "https://www.gob.mx/consar"
+            },
+            {
+                "enlace": "FONACOT",
+                "order": 5,
+                "link": "https://www.fonacot.gob.mx/Paginas/default.aspx"
+            },
+            {
+                "enlace": "IPAB",
+                "order": 6,
+                "link": "https://www.gob.mx/ipab"
+            },
+            {
+                "enlace": "NAFIN",
+                "order": 7,
+                "link": "https://www.nafin.com/portalnf/content/home/home.html"
+            },
+            {
+                "enlace": "PENSIONISSSTE",
+                "order": 8,
+                "link": "https://www.gob.mx/pensionissste"
+            }
+        ]
+    },
+    {
+        "titulo": "INSTITUCIONES EDUCATIVAS",
+        "class": "",
+        "order": 4,
+        "activo": true,
+        "img": "./img/aliados/instituciones_educativas.png",
+        "alt": "instituciones_educativas",
+        "list": [{
+                "enlace": "AUTORIDAD EDUCATIVA FEDERAL DE LA CIUDAD DE MÉXICO",
+                "order": 1,
+                "link": "https://www.aefcm.gob.mx/gbmx/index.html"
+            },
+            {
+                "enlace": "BENEMÉRITA UNIVERSIDAD AUTÓNOMA DE PUEBLA",
+                "order": 2,
+                "link": "https://www.buap.mx/"
+            },
+            {
+                "enlace": "CENTRO DE INVESTIGACIÓN Y DOCENCIA ECONÓMICAS",
+                "order": 3,
+                "link": "https://www.cide.edu/"
+            },
+            {
+                "enlace": "ESCUELA BOLSA MEXICANA ",
+                "order": 4,
+                "link": "https://www.bmv.com.mx/es/escuela-bolsa-mexicana/cursos"
+            },
+            {
+                "enlace": "ESCUELA SUPERIOR DE ECONOMÍA Y ADMINISTRACIÓN, UNIDAD TEPEPAN",
+                "order": 5,
+                "link": "https://www.escatep.ipn.mx/"
+            },
+            {
+                "enlace": "FACULTAD DE CONTADURÍA Y ADMINISTRACIÓN, UNAM",
+                "order": 6,
+                "link": "https://es-la.facebook.com/FCAUNAMOFICIAL/"
+            },
+            {
+                "enlace": "FUNDACION DE ESTUDIOS FINANCIEROS ",
+                "order": 7,
+                "link": "https://www.fundef.mx/"
+            },
+            {
+                "enlace": "INSTITUTO BIVA",
+                "order": 8,
+                "link": "https://www.biva.mx/instituto_biva"
+            },
+            {
+                "enlace": "INSTITUTO TECNOLÓGICO AUTÓNOMO DE MÉXICO",
+                "order": 10,
+                "link": "https://www.itam.mx/"
+            },
+            {
+                "enlace": "TECNOLÓGICO DE MONTERREY, CAMPUS CIUDAD DE MÉXICO",
+                "order": 11,
+                "link": "https://tec.mx/es/ciudad-de-mexico"
+            },
+            {
+                "enlace": "UNIVERSIDAD ANÁHUAC",
+                "order": 12,
+                "link": "https://www.anahuac.mx/"
+            },
+            {
+                "enlace": "UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA",
+                "order": 13,
+                "link": "https://www.uabc.mx/"
+            },
+            {
+                "enlace": "UNIVERSIDAD CRISTÓBAL COLÓN, BOCA DEL RÍO",
+                "order": 14,
+                "link": "https://www.ucc.mx/"
+            },
+            {
+                "enlace": "UNIVERSIDAD DEL CLAUSTRO DE SOR JUANA",
+                "order": 15,
+                "link": "https://elclaustro.mx/"
+            }
+        ]
+    },
+    {
+        "titulo": "MEDIOS DE COMUNICACIÓN E INFLUENCERS",
+        "class": "",
+        "order": 5,
+        "activo": true,
+        "img": "./img/aliados/medios_de_comunicacion_influencer.png",
+        "alt": "medios_de_comunicacion_e_influyentes",
+        "list": [{
+                "enlace": "DIEGO SOTO",
+                "order": 1,
+                "link": "https://www.facebook.com/ElDivanFinanciero/?locale=es_LA"
+            },
+            {
+                "enlace": "MALLENI PADILLA",
+                "order": 2,
+                "link": "https://mx.linkedin.com/in/malleni-padilla-pacheco-2b89827a"
+            },
+            {
+                "enlace": "ONCE NIÑAS Y NIÑOS",
+                "order": 3,
+                "link": "https://onceninos.tv/"
+            },
+            {
+                "enlace": "PAULINA CASSO",
+                "order": 4,
+                "link": "https://mx.linkedin.com/in/paulinacasso"
+            },
+            {
+                "enlace": "RTV",
+                "order": 5,
+                "link": "https://www.rtv.org.mx/"
+            },
+            {
+                "enlace": "TV4",
+                "order": 6,
+                "link": "https://www.tvcuatro.com/"
+            },
+            {
+                "enlace": "VALERIA ARELLANO",
+                "order": 7,
+                "link": "https://www.linkedin.com/in/valeria-arellano-b7210a84/"
+            }
+        ]
+    },
+    {
+        "titulo": "MUSEOS",
+        "class": "",
+        "order": 6,
+        "activo": true,
+        "img": "./img/aliados/museos.png",
+        "alt": "museos",
+        "list": [{
+                "enlace": "MUSEO BANCO DE MÉXICO",
+                "order": 1,
+                "link": "https://museobancodemexico.mx/"
+            },
+            {
+                "enlace": "MUSEO INTERACTIVO DE ECONOMÍA",
+                "order": 2,
+                "link": "https://www.mide.org.mx/"
+            }
+        ]
+    },
+    {
+        "titulo": "ÓRGANOS AUTÓNOMOS",
+        "class": "",
+        "order": 7,
+        "activo": true,
+        "img": "./img/aliados/organos_autonomos.png",
+        "alt": "organos_autonomos",
+        "list": [{
+            "enlace": "BANCO DE MÉXICO - BANXICO EDUCA",
+            "order": 1,
+            "link": "http://educa.banxico.org.mx/gmw.html"
+        }]
+    }
+]

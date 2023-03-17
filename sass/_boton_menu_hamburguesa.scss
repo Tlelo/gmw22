@@ -1,0 +1,48 @@
+.boton_hamburguesa {
+    position: absolute;
+    right: -1.2rem;
+    top: calc(100% + 1rem);
+    z-index: 5;
+    transform: scaleX(0.7);
+    .apertura {
+        display: flex;
+        flex-direction: column;
+        gap: 9px 0;
+        padding: 1.5rem .8rem;
+        /*
+    visibility: hidden;
+    opacity: 0;*/
+        span {
+            background-color: white;
+            border-radius: 15px;
+            height: 7px;
+            width: 80px;
+        }
+    }
+    /*
+  .cierre{
+    visibility: hidden;
+    opacity: 0;
+    flex-direction: column;
+    gap: 10px 0;
+    justify-content: center;
+    transform-origin: center;
+
+    span{
+      background-color: white;
+      border-radius: 15px;
+      display: block;
+      height: 7px;
+      width: 80px;
+    }
+  }
+
+  .active{
+    visibility: visible;
+    opacity: 1;
+    display: flex;
+  }*/
+    @media screen and (min-width: 800px) {
+        display: none
+    }
+}

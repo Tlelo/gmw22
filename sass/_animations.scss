@@ -1,0 +1,14 @@
+@keyframes moveUpDown{
+  0%{
+    transform: translateY(8px);
+  }
+  45%{
+    transform: translateY(-8px);
+  }
+  75%{
+    transform: translateY(8px);
+  }
+  100%{
+    transform: translateY(-8px);
+  }
+}

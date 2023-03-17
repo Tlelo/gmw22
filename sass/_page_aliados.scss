@@ -1,0 +1,85 @@
+/*
+=============================================================================
+  SECCION DE ALIADOS
+=============================================================================
+*/
+
+.page_aliados {
+    & h1 {
+        color: white;
+        font-size: 20px;
+        width: 95%;
+        text-align: center;
+        margin: auto;
+        margin-top: 1rem;
+        line-height: 1.7rem;
+        @media screen and (min-width: 801px) {
+            width: 75%;
+            font-size: 35px;
+            line-height: 2.5rem;
+        }
+        span {
+            color: var(--color3);
+        }
+    }
+    & .contenido_afiliados {
+        @media screen and (min-width: 801px) {
+            display: flex;
+            justify-content: center;
+            gap: 0 15px;
+        }
+        @media screen and (max-width: 800px) {
+            margin: 0 auto;
+            width: 50%;
+        }
+        & .card {
+            display: grid;
+            grid-template-columns: 1fr;
+            grid-template-rows: 1fr;
+            flex-grow: 1;
+            flex-basis: 1%;
+            & img {
+                grid-column: 1/2;
+                grid-row: 1/2;
+                z-index: 1;
+                width: 100%;
+            }
+            & .nav_link {
+                padding: 0 15px;
+                transform: translateY(130px);
+                grid-column: 1/2;
+                grid-row: 1/2;
+                z-index: 2;
+                margin-top: 2rem;
+                @media screen and (min-width: 801px) {
+                    position: relative;
+                }
+                & li {
+                    border-bottom: 1px solid gray;
+                    transition: transform .2s ease-in-out;
+                    &:hover {
+                        background-color: var(--color3);
+                        transform: scale(1.2);
+                    }
+                }
+                & a {
+                    color: var(--color5);
+                    font-family: "titiliun-semiBold";
+                    font-size: 10px;
+                    padding: .3rem 1rem;
+                    display: block;
+                    text-align: center;
+                    width: 100%;
+                }
+            }
+        }
+    } // end contenido
+    & .bg_desk {
+        object-fit: cover;
+    }
+    & .bg_movil {
+        bottom: 0;
+        right: 0;
+        width: 100%;
+    }
+}

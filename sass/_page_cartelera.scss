@@ -1,0 +1,101 @@
+/*
+=============================================================================
+  SECCION DE CARTELERA
+=============================================================================
+*/
+
+.page_cartelera {
+    main {
+        @media screen and (max-width: 800px) {
+            height: 1200px;
+        }
+        & .cartelera_contenido {
+            @media screen and (min-width: 801px) {
+                padding-left: 10%;
+            }
+            & .header_text {
+                color: white;
+                margin-bottom: 4rem;
+                @media screen and (min-width: 801px) {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    width: 75%;
+                }
+                & h1 {
+                    color: var(--color3);
+                    font-family: "barlow";
+                    font-size: 30px;
+                    @media screen and (min-width: 801px) {
+                        text-align: right;
+                    }
+                    @media screen and (max-width: 800px) {
+                        text-align: center;
+                    }
+                }
+                & .span1 {
+                    border-right: 1px solid white;
+                    flex-basis: 25%;
+                    padding: 15px;
+                }
+                & .span2 {
+                    flex-basis: 75%;
+                    padding: 15px;
+                    & p {
+                        text-align: justify;
+                        @media screen and (min-width: 801px) {
+                            padding-right: 15%;
+                        }
+                    }
+                }
+            } // end header
+            .btn_proximamente--cartelera {
+                display: flex;
+                gap: 15px 45px;
+                margin-bottom: 4rem;
+                @media screen and (max-width: 800px) {
+                    justify-content: center;
+                }
+                & img {
+                    animation-name: moveUpDown;
+                    animation-duration: 4s;
+                    animation-timing-function: ease-in-out;
+                    animation-iteration-count: infinite;
+                    animation-direction: alternate;
+                    filter: drop-shadow(0 0 12px rgba(0, 0, 0, .5));
+                    -webkit-filter: drop-shadow(0 0 12px rgba(0, 0, 0, .5));
+                    -moz-filter: drop-shadow(0 0 12px rgba(0, 0, 0, .5));
+                    -ms-filter: drop-shadow(0 0 12px rgba(0, 0, 0, .5));
+                    -o-filter: drop-shadow(0 0 12px rgba(0, 0, 0, .5));
+                    width: 150px;
+                }
+            } //end btn_proximente
+            .txt_descripcion--cartelera {
+                color: white;
+                & a {
+                    color: var(--color3);
+                    font-family: "barlow";
+                    font-size: 25px;
+                }
+            }
+        } // end cartelera
+        & .bg_desk_1 {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
+            @media screen and (max-width: 800px) {
+                display: none;
+            }
+        }
+        & .bg_movil_1 {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
+            @media screen and (min-width: 801px) {
+                display: none;
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+//colores
+$color1:#00945E;
+//#00945d verde oscuro
+$color2:#58c09a;
+//#58c09a verde mas claro
+$color3:#ffdd00;
+//#ffdd00 amarillo chillon
+$color4:#e7ebef;
+//color para background del footer
+$color5:#20201e;
+//color de texto oscuro, footer
+//existe un error de scope con las varibales de sass y en css
+:root {
+    --color1: #00945E;
+    --color2: #58c09a;
+    --color3: #FFDD00;
+    --color4: #E7EBEF;
+    --color5: #20201e;
+}

@@ -1,0 +1,233 @@
+[{
+        "id": 1,
+        "titulo": "Banxico Educa",
+        "sub_titulo": "BANCO DE MÉXICO – BANXICO EDUCA",
+        "descripcion": "Portal de educación del Banco de México donde encontrarás información y material educativo para fortalecer tus competencias económicas y financieras.",
+        "link": "http://educa.banxico.org.mx/",
+        "target": "_blank",
+        "class": "",
+        "order": 1,
+        "activo": true
+    },
+    {
+        "id": 2,
+        "titulo": "Seis mandamientos de finanzas para jóvenes",
+        "sub_titulo": "BBVA",
+        "descripcion": "Blog donde podrás descubrir conocimientos, herramientas y tips sobre cómo ahorrar, planear, usar tu dinero y controlar las deudas de mejor forma.",
+        "link": "https://www.bbva.mx/educacion-financiera/blog/finanzas-personales-para-jovenes.html",
+        "target": "_blank",
+        "class": "",
+        "order": 2,
+        "activo": true
+    },
+    {
+        "id": 3,
+        "titulo": "Ahorro y futuro. La aventura de mi vida",
+        "sub_titulo": "CONSAR",
+        "descripcion": "Simulador que te invita a tomar decisiones, de acuerdo con tu rango de edad, para emprender organizando las finanzas de los proyectos que deseas realizar. ",
+        "link": "https://laaventurademivida.gob.mx/",
+        "target": "_blank",
+        "class": "",
+        "order": 3,
+        "activo": true
+    },
+    {
+        "id": 4,
+        "titulo": "Buenos hábitos financieros para niños",
+        "sub_titulo": "BBVA",
+        "descripcion": "Video que te ayuda a descubrir cómo enseñar a los niños cómo ahorrar y acompañarlos a construir hábitos que les ayuden a un mejor uso, cuidado y crecimiento de su dinero.",
+        "link": "https://youtu.be/2R1hZv5hlpM",
+        "target": "_blank",
+        "class": "",
+        "order": 4,
+        "activo": true
+    },
+    {
+        "id": 5,
+        "titulo": "Compra todo lo que quieras jugando un juego",
+        "sub_titulo": "PROFUTURO",
+        "descripcion": "¿Conoces el juego del ahorro? Diviértete mientras juntas dinero para comprar lo que tú quieras; no saques tu dinero antes de tiempo o pierdes.",
+        "link": "https://www.profuturo.mx/profuturoasesora/profukids/compra-todo-lo-que-quieras-jugando-un-juego?utm_medium=Landing&utm_source=mide&utm_campaign=Jugando&utm_content=42&utm_term=febrero&utm_id=Jugando",
+        "target": "_blank",
+        "class": "",
+        "order": 5,
+        "activo": true
+    },
+    {
+        "id": 6,
+        "titulo": "Crea tu propio mapa del tesoro y ahorra como pirata",
+        "sub_titulo": "PROFUTURO",
+        "descripcion": "¿Quieres tener el tesoro de un pirata? Mira dónde puedes guardar tus riquezas para que nadie las encuentre.",
+        "link": "https://www.profuturo.mx/profuturoasesora/profukids/crea-tu-propio-mapa-del-tesoro-y-ahorra-como-pirata?utm_medium=Landing&utm_source=mide&utm_campaign=MapaDelTesoro&utm_content=40&utm_term=febrero&utm_id=MapaDelTesoro",
+        "target": "_blank",
+        "class": "",
+        "order": 6,
+        "activo": true
+    },
+    {
+        "id": 7,
+        "titulo": "El secreto para ahorrar revelado",
+        "sub_titulo": "PROFUTURO",
+        "descripcion": "¡Descubre estos tips que te ayudarán a alcanzar tus metas de manera más sencilla!",
+        "link": "https://www.profuturo.mx/profuturoasesora/profuteens/el-secreto-para-ahorrar-revelado?utm_medium=Landing&utm_source=mide&utm_campaign=Secreto&utm_content=46&utm_term=febrero&utm_id=Secreto",
+        "target": "_blank",
+        "class": "",
+        "order": 7,
+        "activo": true
+    },
+    {
+        "id": 8,
+        "titulo": "¿Eres mujer? Descubre cómo empezar tu independencia financiera",
+        "sub_titulo": "PROFUTURO",
+        "descripcion": "¿No sabes cómo iniciar un presupuesto? Sigue estos sencillos pasos y alcanza tus sueños.",
+        "link": "https://www.profuturo.mx/profuturoasesora/profu-joven/eres-mujer-descubre-como-empezar-tu-independencia-financiera?utm_medium=Landing&utm_source=mide&utm_campaign=Mujer&utm_content=47&utm_term=febrero&utm_id=Mujeres",
+        "target": "_blank",
+        "class": "",
+        "order": 8,
+        "activo": true
+    },
+    {
+        "id": 9,
+        "titulo": "¿Quieres jugar a tu yo del futuro?",
+        "sub_titulo": "PROFUTURO",
+        "descripcion": "Conviértete en la mejor versión de ti mismo. Con ese Profutip descubrirás lo importante que es planear las cosas con tiempo y el esfuerzo que requieres para lograrlo.",
+        "link": "https://www.profuturo.mx/profuturoasesora/profukids/quieres-jugar-tu-yo-del-futuro?utm_medium=Landing&utm_source=mide&utm_campaign=TuYoDelFuturo&utm_content=41&utm_term=febrero&utm_id=TuYoDelFuturo",
+        "target": "_blank",
+        "class": "",
+        "order": 9,
+        "activo": true
+    },
+    {
+        "id": 10,
+        "titulo": "Guía de Vanguard para el bienestar financiero",
+        "sub_titulo": "VANGUARD",
+        "descripcion": "Artículo donde explican cómo crear un plan para lograr la flexibilidad financiera necesaria y cumplir los objetivos a corto y largo plazo.",
+        "link": "https://www.vanguardmexico.com/es/perspectivas/opinion-de-expertos/vg-guide-to-financial-wellness",
+        "target": "_blank",
+        "class": "",
+        "order": 10,
+        "activo": true
+    },
+    {
+        "id": 11,
+        "titulo": "Metas y estrategia",
+        "sub_titulo": "BBVA",
+        "descripcion": "Juego descargable e imprimible, que permite a la familia establecer metas y definir estrategias para alcanzarlas.",
+        "link": "https://www.bbva.mx/content/dam/public-web/mexico/documents/personas/educacion-financiera/kids/BBVA-Kids3.pdf",
+        "target": "_blank",
+        "class": "",
+        "order": 11,
+        "activo": true
+    },
+    {
+        "id": 12,
+        "titulo": "¿Cómo vencer los obstáculos para lograr mis metas financieras?",
+        "sub_titulo": "BBVA",
+        "descripcion": "Gráfico que te servirá como una guía para aprender a lograr las metas financieras. ",
+        "link": "https://www.bbva.mx/content/dam/public-web/mexico/images/edufin-/persona/infografias/2020/semestre-1/marzo-bbva-como-vencer-los-obstaculos-para-lograr-mis-metas-financieras.png.img.1176.1637079107985.png",
+        "target": "_blank",
+        "class": "",
+        "order": 12,
+        "activo": true
+    },
+    {
+        "id": 13,
+        "titulo": "Pequeñas acciones para tu futuro",
+        "sub_titulo": "FLINK",
+        "descripcion": "Laboratorio digital, desarrollado por Flink y el MIDE, donde podrás comenzar una aventura por la Dimensión de las inversiones, un reto para aventureros que toman decisiones a fin de construir un futuro próspero.",
+        "link": "https://www.mide.org.mx/midedigital/dimension-inversiones/",
+        "target": "_blank",
+        "class": "",
+        "order": 13,
+        "activo": true
+    },
+    {
+        "id": 14,
+        "titulo": "Cochicoin",
+        "sub_titulo": "PROFUTURO",
+        "descripcion": "Divertido juego para niños y niñas donde seleccionas un personaje, recolectas monedas y cuidas que no te toquen los enemigos. ¡Acumula la mayor cantidad de monedas y supera la puntuación de tus amigos! ",
+        "link": "https://profukids.com/?fbclid=IwAR0hCONcWpF1xPn08HbvxOySdAaPoiztnPyVHLfxTYndVdVEqXWjnBrlBrk&utm_medium=Landing&utm_source=mide&utm_campaign=KidsCochicoin&utm_content=38&utm_term=febrero&utm_id=Cochicoin",
+        "target": "_blank",
+        "class": "",
+        "order": 14,
+        "activo": true
+    },
+    {
+        "id": 15,
+        "titulo": "Conoce a tu yo del futuro",
+        "sub_titulo": "PROFUTURO",
+        "descripcion": "¿Alguna vez te has preguntado cómo es Tu yo del futuro? No lo adivines, ¡planéalo con estas sencillas, pero retadoras preguntas!",
+        "link": "https://www.profuturo.mx/profuturoasesora/profuteens/conoce-tu-yo-del-futuro?utm_medium=Landing&utm_source=mide&utm_campaign=TuYoDelFuturo&utm_content=45&utm_term=febrero&utm_id=TuYoDelFuturoTeens",
+        "target": "_blank",
+        "class": "",
+        "order": 15,
+        "activo": true
+    },
+    {
+        "id": 16,
+        "titulo": "Descubre cómo tener dinero siempre",
+        "sub_titulo": "PROFUTURO",
+        "descripcion": "¿Aún le pides dinero a tus papás para una date? ¡Qué oso! Ve estos tips para ahorrar y gana tu independencia financiera.",
+        "link": "https://www.profuturo.mx/profuturoasesora/profuteens/descubre-como-tener-dinero-siempre?utm_medium=Landing&utm_source=mide&utm_campaign=DineroSiempre&utm_content=44&utm_term=febrero&utm_id=DineroSiempre",
+        "target": "_blank",
+        "class": "",
+        "order": 16,
+        "activo": true
+    },
+    {
+        "id": 17,
+        "titulo": "Los cazagastos",
+        "sub_titulo": "PROFUTURO",
+        "descripcion": "¿Despilfarras el ahorro en café y ropa? Conviértete en un Cazagastos y junta muchísimo dinero.",
+        "link": "https://www.profuturo.mx/profuturoasesora/profuteens/los-cazagastos?utm_medium=Landing&utm_source=mide&utm_campaign=Cazagastos&utm_content=43&utm_term=febrero&utm_id=Cazagastos",
+        "target": "_blank",
+        "class": "",
+        "order": 17,
+        "activo": true
+    },
+    {
+        "id": 18,
+        "titulo": "¡Mamá y papá te necesitan! Descubre cómo ayudarlos",
+        "sub_titulo": "PROFUTURO",
+        "descripcion": "¡Ser un superhéroe del ahorro es muy sencillo! Ayuda a tus papás a ahorrar en el hogar.",
+        "link": "https://www.profuturo.mx/profuturoasesora/profukids/mama-y-papa-te-necesitan-descubre-como-ayudarlos?utm_medium=Landing&utm_source=mide&utm_campaign=MamaYPapa&utm_content=39&utm_term=febrero&utm_id=MamaYPapa",
+        "target": "_blank",
+        "class": "",
+        "order": 18,
+        "activo": true
+    },
+    {
+        "id": 19,
+        "titulo": "Curso de Educación financiera",
+        "sub_titulo": "UNIVERSIDAD ANÁHUAC & BANK OF AMERICA EN MÉXICO",
+        "descripcion": "Aprende once temas diferentes relacionados a las finanzas personales, avanza a tu propio ritmo y obtén una constancia avalada por la Universidad Anáhuac y Bank of America. ",
+        "link": "https://tufuturofinanciero.mx",
+        "target": "_blank",
+        "class": "",
+        "order": 19,
+        "activo": true
+    },
+    {
+        "id": 20,
+        "titulo": "Tres pasos para el bienestar financiero",
+        "sub_titulo": "VANGUARD",
+        "descripcion": "Artículo que detalla conceptos básicos como qué es el bienestar financiero o cómo alcanzar objetivos financieros.",
+        "link": "https://www.vanguardmexico.com/es/perspectivas/opinion-de-expertos/three-step-framework-for-fw",
+        "target": "_blank",
+        "class": "",
+        "order": 20,
+        "activo": true
+    },
+
+    {
+        "id": 21,
+        "titulo": "Cashin Cashin",
+        "sub_titulo": "LUFINDO",
+        "descripcion": "Nuevo juego sobre cómo administrar el dinero otorgado por los padres de familia en distintos escenarios.",
+        "link": "https://www.facebook.com/lufindo ",
+        "target": "_blank",
+        "class": "",
+        "order": 21,
+        "activo": true
+    }
+]

@@ -1,0 +1,30 @@
+/*
+=============================================================================
+  SECCION DE LOGROS
+=============================================================================
+*/
+
+.page_presentacion {
+    main {
+        @media screen and (max-width: 800px) {
+            height: 1100px;
+        }
+        .txt_presentacion {
+            @media screen and (min-width: 801px) {
+                width: 55%;
+            }
+            & h1 {
+                color: var(--color3);
+                font-family: "barlow";
+                font-size: 33px;
+            }
+            & strong {
+                color: var(--color3);
+            }
+            & p {
+                color: white;
+                text-align: justify;
+            }
+        } // end txt_presentacion
+    }
+}

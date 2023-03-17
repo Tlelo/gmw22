@@ -1,0 +1,24 @@
+@import "mixin";
+@font-face {
+    @include font_file( "helveticaCn", bold, normal, "../fonts/HelveticaNeueLTStdBdCn.otf", normal);
+}
+
+@font-face {
+    @include font_file( "barlow", bold, normal, "../fonts/Barlow_Bold.ttf", normal);
+}
+
+@font-face {
+    @include font_file( "titiliun-bold", bold, normal, "../fonts/Titillium-Bold.otf", normal);
+}
+
+@font-face {
+    @include font_file( "titiliun-italic", bold, italic, "../fonts/Titillium-BoldItalic.otf", normal);
+}
+
+@font-face {
+    @include font_file( "titiliun-semiBold", 400, bold, "../fonts/Titillium-Semibold.otf", normal);
+}
+
+@font-face {
+    @include font_file( "titiliun", normal, bold, "../fonts/Titillium-Regular.otf", normal);
+}
